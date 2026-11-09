@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="80" viewBox="0 0 240 80">
+  <circle cx="40" cy="40" r="30" fill="#e3f2fd"/>
+  <path d="M16 58 L34 26 L44 42 L52 32 L64 58 Z" fill="#0d47a1"/>
+  <path d="M34 26 L39 35 L29 35 Z" fill="#ffffff"/>
+  <text x="82" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">Summit</text>
+  <text x="82" y="62" font-family="Arial, sans-serif" font-size="16" fill="#bbdefb">Climbing Gym</text>
+</svg>
